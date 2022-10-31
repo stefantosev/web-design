@@ -1,0 +1,165 @@
+/* Index - FullName */
+/* Индекс - Име и Презиме */
+/*213091 - Стефан Тосев*/
+
+
+/* Good luck */
+/* Со среќа */
+
+body{
+    background: url(../images/bg.jpg) repeat;
+    color: white;
+}
+
+#container{
+    margin: auto;
+    width: 980px;
+}
+
+#content_wrapper{
+    background: url(../images/container_bg.png);    
+    width: 960px;
+}
+#banner{
+    background: url(../images/banner_bg.jpg)no-repeat;
+    height: 149px;
+    width: 960px;
+    margin-bottom: -19px;
+    image-orientation: 90deg;
+  
+}
+
+#menu ul{
+    display: flex;
+}
+
+#menu ul li a{
+    text-decoration: none;
+    color: white;
+    list-style-image: url(../images/menu_hover_right.jpg);
+    width: 300px;
+    height: 42px;
+}
+#menu ul li{
+    list-style: none;
+    padding-left: 100px;
+    padding-top: 10px;
+  
+}
+#menu{
+    background: url(../images/menu_bg.jpg);
+    width: 970px;
+    height: 42px;
+}
+
+#search_section{
+    margin-left: 750px;
+    margin-top: -70px;
+}
+
+.column_w210{
+    margin-left: 30px;
+    padding-top: 40px;
+    width: 250px;
+    background: url(../images/vertical_divider.jpg) repeat-y right;
+}
+.column_w430{
+  margin-left: 350px;
+  width: 420px;
+  margin-top: -390px;
+}
+
+.column_w430 image{
+    border: 3px solid white;
+}
+
+.column_w430 .header_01{
+    padding-top: 30px;
+}
+
+.column_w430 a{
+    color: orange;
+}
+
+.column_w920{
+    display: flex;
+    background: url(../images/horizontal_divider.jpg) repeat-x;
+}
+
+.header_01{
+    color: orange;
+    padding-bottom: 25px;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+.header_02 a{
+    color: orange;
+}
+
+#logo{
+    background: url(../images/logo.png)no-repeat;
+    width: 303px;
+    height: 144px;
+    margin-left: 50px;
+}
+
+#search_section form{
+    color: orange;
+}
+
+.column_w190{
+    background: url(../images/image_02.jpg)no-repeat;
+    padding-top: 100px;
+    padding-left: 50px;
+    margin-left: 30px;
+    width: 180px;
+    height: 115px;
+}
+.column_w210 ul li{
+    list-style: none;
+    list-style-image: url(../images/list_icon.jpg);
+}
+
+
+
+.column_w190 ul li a{
+    text-decoration: none;
+    color: gray;
+
+}
+
+.footer_list{
+    display: flex;
+    width: 180px;
+}
+.footer_list ul li{
+    padding-left: 50px;
+}
+
+.footer_list ul li a{
+    margin-left: 50px;
+    width: 180px;
+}
+
+.rc_btn_01{
+    margin-left: 150px;
+    padding-top: 30px;
+}
+
+.rc_btn_01 a{
+    color: white;
+    text-decoration: none;
+    display: block;
+
+}
+
+#footer{
+    background: url(../images/footer.jpg)no-repeat;
+    width: 950px;
+    height: 105px;
+    margin-top: -20px;
+    padding-left: 50px;
+    border-top: 3px solid gray;
+
+}

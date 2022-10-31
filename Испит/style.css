@@ -1,0 +1,59 @@
+/* Stefan i Tosev 213091 */
+
+body{
+	background-color: rgb(0,73,108);
+	font-family: "Georgia","Times New Roman", serif, italic;
+	font-size: 11px;
+}
+
+.container{
+	background: url('img/cover.png')repeat-y;
+	width: 770px;
+	margin: auto;
+}
+
+.top{
+	background: url('/img/cover_top.png') repeat-x;
+	padding: 30px;
+}
+
+
+ header{
+	background: url('img/game-of-thrones.jpg') no-repeat;
+	width: 268px;
+    height: 71px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 65px;
+    text-indent: -9999px;
+}
+.introduction p{	
+	margin-left: 370px;
+	text-align: left;
+	width: 340px;
+}
+.introduction{
+	background: url('/img/introduction.png')no-repeat;
+	float: left;
+
+	
+
+}
+
+.introduction h3{
+	text-indent: -9999px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

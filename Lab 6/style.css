@@ -1,0 +1,160 @@
+header{
+    display: flex;
+    background-color: white;
+    margin: auto;
+}
+
+.kopcinja{
+    margin-left: 980px;
+    margin-top: 30px;
+    padding-left: 30px;
+}
+
+.kopcinja a{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+body{
+    background-color: #7ddf96;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    margin: auto;
+}
+
+.container h1{
+    padding-left: 30px;
+}
+
+header span{
+    color: #7ddf96;
+}
+
+.kopcinja a{
+    text-decoration: none;
+    color: gray;
+    font-weight: bold;
+    border-radius: 5px;
+    padding-left: 20px;
+}
+
+.kopcinja a:hover{
+    background-color: gray;
+    color: white;
+    padding: 25px;
+
+}
+
+.main p{
+    margin-left: 350px;
+    margin-top: 100px;
+}
+
+.main table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding-left: 280px;
+   
+}
+
+.main table tr:first-child{
+    font-weight: bold;
+}
+.main table td{
+    border: 2px solid black;
+    text-align: center;
+}
+
+.main table th{
+    border: 2px solid black;
+}
+
+form{
+    background-color: lightgray;
+    margin: 100px;
+    padding-left: 50px;
+    height: 400px;
+    padding-top: 60px;
+    border-radius: 5px;
+    margin-top: -5px;
+
+}
+
+input{
+    width: 500px;
+    height: 30px;
+}
+
+select{
+    width: 500px;
+    height: 30px;
+}
+
+.fleks{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.desni{
+    margin-left: 50px;
+}
+
+.button{
+    margin-left: 330px;
+    background-color: #3fb95e;
+    color: white;
+    border: 1px solid #3fb95e;
+    border-radius: 5px;
+    height: 40px;
+}
+
+.subject{
+    width: 500px;
+    height: 100px;
+    
+}
+
+.button:hover{
+    background-color: #309048;
+}
+
+.forma{
+    margin-left: 660px;
+    font-weight: bold;
+}
+
+.embed{
+    width: 1200px;
+    height: 1250px;
+    margin-left: 200px;
+    margin-top: 80px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+}
+
+embed{
+    width: 990px;
+    height: 500px;
+    padding: 100px;
+}
+iframe{
+    margin-left: 100px;
+    width: 990px;
+    height: 500px;
+    margin-top: -80px;
+
+}
+h3{
+    margin-left: 690px;
+    margin-top: 70px;
+}
+
+/*.slika{
+    background: url(screenshots/tabela.png)no-repeat;
+    width: 1561px;
+    height: 269px;
+}*/

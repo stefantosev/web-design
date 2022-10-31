@@ -1,0 +1,58 @@
+body
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #F7ECDE;
+    font-size: x-large;
+}
+.peder{
+    background-color: bisque;
+}
+.test{
+    display: block;
+}
+ul{
+    list-style: square;
+}
+.cigan
+{
+    list-style: circle;
+}
+.porshe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60rem;
+    height: 40rem;
+    border: 10px solid #361500;
+}
+
+.kire:hover{
+    color: #603601;
+}
+.ababau:hover{
+    display: none;
+
+}
+.div1{
+    display: inline-block;
+    width: 31%;
+    margin: 1%;
+    height: 25px;
+    background-color: chartreuse;
+
+}
+.col-3{
+    display: inline-block;
+    width: 20%;
+    margin: 1%;
+    height: 15px;
+    background-color: blue;
+}
+span{
+    text-align: center;
+    background-color: #603601;
+}
+
+/*PAPAUU*/
+
+

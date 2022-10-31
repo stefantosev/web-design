@@ -1,0 +1,33 @@
+
+
+.blok{
+    /*display: inline-block;*/
+    color: red;
+    border: dashed;
+    border-color: gray;
+    margin: 25px 0px 25px 0;
+}
+
+.prva{
+    color: blue
+}
+.vtora{
+    color: green;
+}
+.treta{
+    color: yellow;
+}
+.cetvrta{
+    color:brown
+}
+
+footer{
+    text-align: center;
+}
+
+.dopolnitelni{
+    color: red;
+}
+.klasi{
+    background-color: yellow;
+}

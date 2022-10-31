@@ -1,0 +1,93 @@
+.pozadina{
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    background-color: white;
+}
+.menu{
+    top:50px;
+    width:800px;
+    height:30px;
+    position:absolute;
+    background-image: url(content/img/navigation-background.jpg);
+}
+.bar{
+    margin-left: 120px;
+    margin-top: 5px;
+}
+.linkovi{
+    color: #ffff; 
+    margin: 0;
+	padding-left:10px;
+	padding-right: 10px;
+	display: inline; 
+	text-align: center;
+	margin-left:20px;
+	font-size:18px;
+	text-decoration: none;  
+
+}
+.glavnaStrana{
+    margin: 0px;
+    background-color: #E6E6E6;
+}
+.desno{
+    /* display: inline-block; */
+    float:right; 
+    margin-left: 10px;
+    
+}
+
+.levo{
+    width: 370px;
+    margin-left: 10px;
+    display: inline-block;
+    text-decoration: bold;
+} 
+
+
+
+
+
+.content{
+    height: 420px;
+}
+
+h1.header{
+    color: #92CD00;
+    font-size: 26px;
+    text-align: center;
+  
+}
+
+.content p{
+    font-style: bold;
+}
+
+footer{
+    width: 800px;
+    height: 30px;
+    background-color: #81b518;
+    color: #ffff;
+    position: absolute;
+}
+
+footer p{
+    text-align: center;
+    margin-top: 7px;
+}
+
+.kontakt{
+    background-color: yellow;
+}
+.list{
+    position: relative;
+     height: 120px;
+     height: 120px;
+}
+
+.slika1{
+    width: 400px;
+    height: 270px;
+}
+

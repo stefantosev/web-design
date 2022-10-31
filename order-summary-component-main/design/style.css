@@ -1,0 +1,10 @@
+body{
+    background-color: lightgray;
+}
+
+.glavnoto{
+    display: block;
+    width: 400px;
+    height: 600px;
+    margin: auto;
+}

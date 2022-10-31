@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\vezbi"
+		},
+		{
+			"path": "..\\..\\..\\..\\prva vezba"
+		},
+		{
+			"path": "..\\..\\..\\..\\order-summary-component-main\\design"
+		},
+		{
+			"path": "..\\..\\..\\..\\Lab"
+		},
+		{
+			"path": "..\\..\\..\\..\\Lab2"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Lab"
+	}
+}

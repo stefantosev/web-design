@@ -1,0 +1,174 @@
+/* 
+   Indeks, ime i prezime
+*/
+
+body{
+   margin:auto;
+   font-family: Helvetica, "lucida sans", Arial, Sans-Serif;
+   background-color: #eeeeee;
+   line-height: 25px;
+   overflow-x: hidden;
+}
+
+#topbarright ul{
+   display: flex;
+   justify-content: center;
+   margin-left: 400px;
+}
+
+#topbarright ul li{
+   padding-left: 30px;
+   list-style: none;
+}
+#topbarright ul li a{
+   color: black;
+   text-decoration: none;
+   font-weight: bold;
+   display: block;
+   background-color: white;
+   width: 100px;
+   padding-left: 20px;
+   border-radius: 5px;
+}
+
+/*#topbar h1,h2{
+   margin-left: 600px;
+}*/
+
+#topbar h1{
+   color:orangered;
+   font-size: 30px;
+   padding-top: 10px;
+   width: 300px;
+   margin: auto;
+}
+#topbar h2{
+   color:white;
+   font-size: 19px;
+   margin: auto;
+   width: 300px;
+   padding-top: 25px;
+}
+
+#contentleft{
+   width: 600px;
+}
+
+#right_sidebar{
+   width: 200px;
+   margin-left: 590px;
+   margin-top: -670px;
+   
+}
+
+#right_sidebar ul{
+   width: 300px;
+   
+}
+
+#right_sidebar ul li{
+   list-style: none;
+   text-align: left;
+   
+}
+#right_sidebar ul li a{
+   text-decoration: none;
+   color: brown;
+   line-height: 30px;
+   
+   
+}
+
+#right_sidebar ul li h2{
+   border-bottom: solid 1px gray;
+   font-weight: lighter;
+   border-bottom: solid 1px gray;
+   color: gray;
+}
+
+#topbar{
+   background: url(images/header.jpg) repeat-x;
+   height: 200px;
+}
+
+#content{
+   margin: auto;
+   width: 1000px;
+   background: url(images/logo.jpg) no-repeat;
+   margin-top: -200px;
+   padding-top: 250px;
+}
+
+#contentleft h1{
+   border-bottom: solid 1px gray;
+   font-weight: lighter;
+   color: gray;
+}
+
+#contentleft .small{
+   color:rgb(112, 11, 11);
+}
+
+#contentleft a{
+   color: orange;
+   text-decoration: none;
+}
+
+#contentleft blockquote{
+   color: rgb(198, 198, 51);
+}
+
+#footer{
+   display: flex;
+   justify-content: center;
+   background-color: black;
+   color: #eeeeee;
+   border-top: 7px solid orangered;
+   
+}
+
+#footerleft {
+   margin-right: 150px;
+}
+
+#footermiddle {
+   margin-right: 150px;
+}
+
+#footer ul li{
+   list-style:none;
+   line-height: 35px;
+   border-bottom: solid 1px gray;
+   border-top: solid 1px gray;
+}
+
+#footer ul li a{
+   text-decoration: none;
+   color: #eeeeee;
+   
+}
+
+#credits{
+   margin: auto;
+   background-color: black;
+   height: 100px;
+   margin-top: -20px;
+}
+
+#credits p{
+   padding-top: 50px;
+   margin: auto;
+   color: white;
+}
+
+#credits p a{
+      color: orangered;
+}
+
+#footer h2{
+   text-transform: uppercase;
+   padding-left: 35px;
+}
+
+
+

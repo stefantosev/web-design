@@ -1,0 +1,142 @@
+/* Ime Prezime Indeks 
+    Stefan i Tosev 213091*/
+
+    body{
+
+        background-color: #114a6c;
+        font-family:  Georgia,  "Times  New  Roman",  Times,  serif;
+        font-size: 11px;
+ 
+    }
+
+    /**{
+        border: 1px solid black;
+    }*/
+
+
+  .container{
+    width: 770px;
+    background: url("img/cover.png");
+    margin: auto;
+
+    }
+
+    .top{
+        background: url("img/cover_top.png") no-repeat;
+   
+    }
+
+    header h1,h2{
+        text-indent: -99999px;
+  
+    }
+
+    header h1{
+        background:url("img/game-of-thrones.jpg")no-repeat;
+        width: 268px;
+        height: 71px;
+        padding-bottom: 30px;
+        margin-left: 40px;
+
+    
+    }
+
+    header h2{
+        background: url("img/ice-and-fire.jpg") no-repeat;
+        margin-top: -15px;
+        margin-left: 30px;
+    }
+
+    .introduction h3{
+        text-indent: -999999px;
+        background: url("img/introduction.png")no-repeat;
+        width: 212px;
+        height: 44px;
+        margin-left: 150px;
+    }
+
+    /*.introduction h3{
+        float: left;
+          background: url("img/introduction.png")no-repeat;
+        width: 212px;
+        height: 44px;
+    }*/
+
+    .introduction p{
+        padding-left: 405px;
+        width: 305px;
+        align-items: center;
+        margin-right: -100px;
+    }
+
+    
+
+    .summary{
+        margin-top: -155px;
+        float: right;
+        width: 385px;
+        display: flex;
+    }
+
+    .summary p:first-child{
+        margin-top: 40px;
+
+    }
+    .summary p:last-child{
+        padding-left: 5px;
+    }
+
+    .summary p:last-child{
+        background: url("img/bookmark.jpg") right no-repeat;
+        padding-left: 60px;
+        margin-top: 7px;
+        margin-right: 40px;
+        width: 81px;
+        height: 131px;
+        color: white;
+        text-align: center;
+ 
+    }
+
+    .about h3{
+        text-indent: -99999px;
+        background: url("img/img_1.jpg");
+        width: 336px;
+        height: 191px;
+        margin-left: 50px;
+    }
+    
+    .about p{
+        width: 350px;
+        margin-left: 20px;
+        padding-right: 40px;
+        text-align: right; 
+    }
+
+    .people h3{
+        text-indent: -99999px;
+        background: url("img/people.png") no-repeat;
+        width: 157px;
+        height: 45px;
+        margin-left: 200px;
+
+    }
+
+    .people{
+        /*margin-top: -25px;*/
+       width: 365px;
+       /*  margin-left: 380px;*/
+       float: right;
+    }
+
+    /*.people {
+        background: url("img/img_3.jpg")no-repeat;
+        width: 333px;
+        height: 213px;
+    
+    }*/
+    .people2{
+        width: 355px;
+        margin-left: 380px;
+
+    }

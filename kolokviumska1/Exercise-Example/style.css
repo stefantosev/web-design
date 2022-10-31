@@ -1,0 +1,133 @@
+/*-------------------------------------------------------------------------
+
+br.Indeks, Ime i Prezime  
+213091, Stefan i tosev
+
+----------------------------------------------------------------------------*/
+body{
+    font-family: Verdana, Arial, Serif;
+    font-size: 11px;
+    background-color: grey;
+}
+
+#container{
+    margin: auto;
+    background: url('containerbackground.gif');
+    width: 663px;
+}
+
+#intro{
+    background: url('top.gif')no-repeat;
+    padding-top: 332px;
+    margin-left: 29px;
+    padding-left: 29px;
+}
+
+#quickSummary{
+    background: url('summary.gif')no-repeat;
+    padding-top: 38px;
+    float: right;
+    width: 192px;
+    margin-right: 36px;
+}
+
+#pageHeader h1{
+    display: none;
+}
+#preamble h3{
+    display: none;
+}
+
+#preamble{
+    background:url('title1.gif')no-repeat;
+    float: left;
+    width: 389px;
+    padding-top: 38px;
+    margin-left: -21px;
+
+
+}
+
+#supportingText h3{
+    display: none;
+}
+#explanation{
+    background: url('title2.gif')no-repeat;
+    margin-top: 285px;
+    width: 389px;
+    padding-top: 39px;
+    margin-left: 37px;
+    padding-left: 8px;
+    padding-right: -10px;
+ 
+}
+
+#linkList{
+    float: right;
+    margin-top: -650px;
+}
+
+#lselect  h3{
+    display: none;
+}
+
+ #lselect{
+    background: url('designs.gif')no-repeat;
+    margin-top: 10px;
+    padding-top: 50px;
+    margin-right: 36px;
+    
+
+}
+
+#lresources{
+    background: url('resources.gif')no-repeat;
+    padding-top: 50px;
+    margin-top: 100px;
+}
+#lresources h3{
+    display: none;
+    
+}
+
+
+
+#participation{
+    background: url('title3.gif')no-repeat;
+    width: 389px;
+    margin-top: 200px;
+    width: 389px;
+    padding-top: 39px;
+    margin-left: 37px;
+    padding-left: 8px;
+    padding-right: -10px;
+}
+
+#quickSummary .p1{
+    padding-left: 13px;
+    padding-top: 10px;
+}
+
+ .p1{
+    padding-left: 13px;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+#participation li{
+    line-height: 20px;
+}
+a{
+    color: red;
+}
+#linkList #linkList2 #summary{
+    line-height: 20px;
+}
+#lresources{
+    list-style-image: url('paper.gif');
+    line-height: 25px;
+}
+
+#lselect ul{
+    list-style-image: url('paperfolded.gif');
+    line-height: 25px;
+}
